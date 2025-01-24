@@ -1,0 +1,91 @@
+.box{
+    width: 800px;
+    margin: 50px auto; 
+}
+.a{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.b{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.d{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.c{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.e{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.f{
+    background-color: blue;
+    color: white;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.g{
+    background-color: blue;
+    color: white;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+.h{
+    background-color: white;
+    height: 100px;
+    margin-left: 60px;
+}
+.aa{
+    color: black;
+    background-color: red;
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid white;
+    margin-top: 5px;
+}
+.aaa{
+    color: black;
+    background-color: #1f1;
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid white;
+    margin-top: 5px;
+}
+.bb{
+    background-color: #494949;
+    color: white;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    border: 2px solid blue;
+    margin-left: 35px;
+
+}

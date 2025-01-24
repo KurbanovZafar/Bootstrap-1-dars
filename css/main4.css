@@ -1,0 +1,74 @@
+.box{
+    margin: 50px auto;
+}
+.a{
+    background-color: red;
+    color: white;
+    height: 80px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.b{
+    background-color: red;
+    color: white;
+    height: 40px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.d{
+    background-color: red;
+    color: white;
+    height: 90px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.e{
+    background-color: red;
+    color: white;
+    height: 90px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.f{
+    background-color: red;
+    color: white;
+    height: 90px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.g{
+    background-color: red;
+    color: white;
+    height: 50px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.h{
+    background-color: red;
+    color: white;
+    height: 60px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.j{
+    background-color: red;
+    color: white;
+    height: 40px;
+    text-align: center;
+    border: 4px solid white;
+    border-radius: 10px;
+}
